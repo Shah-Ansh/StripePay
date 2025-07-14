@@ -26,7 +26,6 @@
 - [🚀 **Quick Start Guide**](#-quick-start-guide)
 - [📊 **Load Balancing & Performance**](#-load-balancing--performance)
 - [🔧 **Technical Implementation**](#-technical-implementation)
-- [📚 **Documentation & Resources**](#-documentation--resources)
 
 ---
 
@@ -266,44 +265,15 @@ service LoadBalancer {
 
 ---
 
-## 📚 Documentation & Resources
-
-### 📖 **Design Documentation**
-- **Architecture diagrams** showing system components
-- **Sequence diagrams** for transaction flows
-- **Security model** with authentication protocols
-- **Fault tolerance** strategies and recovery procedures
-
-### 🔧 **Configuration Files**
-- **User setup** with CSV/JSON configuration
-- **Bank initialization** with account data
-- **Certificate management** for SSL/TLS
-- **Load balancer policies** and parameters
-
-### 🧪 **Testing & Validation**
-- **Unit tests** for individual components
-- **Integration tests** for end-to-end flows
-- **Performance benchmarks** and load testing
-- **Security testing** with penetration scenarios
-
-### 📊 **Monitoring & Observability**
-- **Transaction logs** with detailed audit trails
-- **Performance metrics** and system health
-- **Error tracking** and debugging information
-- **Load balancing** statistics and optimization
-
----
-
 <div align="center">
 
-### 🚀 **Enterprise-Grade Payment Processing**
 
-*Built with security, scalability, and reliability at its core*
+**Key Features:**
+- 🔐 **SSL/TLS Security** | 🔄 **Idempotent Payments** | 📱 **Offline Queuing** | 🤝 **2PC Transactions** | 🛡️ **Multi-Level Authentication**
 
 ---
 
-**Key Features:**
-- 🔐 **SSL/TLS Security** | 🔄 **Idempotent Payments** | 📱 **Offline Queuing** | 🤝 **2PC Transactions** | 🛡️ **Byzantine Fault Tolerance**
+### 🚀 **This was an attempt to Learn and Implement Distributed Payment Gateway. This was part of course CS3.401 : Distributed Systems**
 
 ---
 
